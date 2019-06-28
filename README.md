@@ -1,1 +1,1 @@
-# How-to-use-markdown-in-github
+# How-to-Use-Markdown-in-Github
